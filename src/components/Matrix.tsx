@@ -170,7 +170,7 @@ const Matrix = () => {
         onClick={handleCalculate}
         className={results ? "clearButton" : ""}
       >
-        {results ? "Отчистить" : "Расчитать"}
+        {results ? "Очистить" : "Расчитать"}
       </button>
       {renderTitleResults()}
       {renderFaithResults()}
