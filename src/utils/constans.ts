@@ -1,0 +1,12 @@
+export const TEN: number = 10;
+export const TWELVE: number = 12;
+export const CHARACTER_VALUE: string = "1";
+export const ENERGY_VALUE: string = "2";
+export const INTEREST_VALUE: string = "3";
+export const HEALTH_VALUE: string = "4";
+export const LOGIC_VALUE: string = "5";
+export const WORK_VALUE: string = "6";
+export const LUCK_VALUE: string = "7";
+export const DUTY_VALUE: string = "8";
+export const MEMORY_VALUE: string = "9";
+export const REPLACEMENT_NULL: string = "-";
